@@ -11,12 +11,14 @@ I haven't made this website only used it to integrate a chatbot
 </div>
 
 <h3>Ask the chatbot about any country of the world </h3>
-<h2><a href="https://codewithsadee.github.io/gamics/"><strong>➥ Live Demo</strong></a></h2>
+<h2><a href="https://rik-21.github.io/ChatBotintegratedwebsite.github.io/"><strong>➥ Live Demo</strong></a></h2>
 </div>
 
 ### Demo Screeshots of the Chatbot
 
 ![Gamics Desktop Demo](./readme-images/project-img.png "Desktop Demo")
+
+![Gamics Desktop Demo](./readme-images/project-img-2.png "Desktop Demo")
 
 
 
